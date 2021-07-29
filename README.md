@@ -1,7 +1,10 @@
 # test_gyro
 
 A new Flutter project.
-
+<p align="center">
+<img src='imgs/.png' width="1000px"/>
+  
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
