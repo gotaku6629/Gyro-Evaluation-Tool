@@ -2,7 +2,7 @@
 
 A new Flutter project.
 <p align="center">
-<img src='imgs/.png' width="1000px"/>
+<img src='imgs/demo.png' width="1000px"/>
   
   
 ## Getting Started
