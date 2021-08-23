@@ -48,6 +48,7 @@ flutter:
 
   assets: # assetファイルの宣言
     - assets/20200416_155215.csv
+    - assets/20200416_154101.csv
     - assets/images/gyro_test.png
     - assets/images/gyro_test2.png
     - assets/images/Flutter_dart.jpg
